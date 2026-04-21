@@ -1,4 +1,0 @@
-@package: USU
-@desc: Paquete que encapsula los datos y parámetros de un usaurio de teenvio
-@author: Víctor J. Chamorro - victor@ipdea.com
-@date: Octubre 2011
